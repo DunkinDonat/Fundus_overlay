@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/eye_image" android:drawable="@drawable/_1_idrid_01"/>
+    <item android:id="@+id/overlay_ex" android:drawable="@drawable/overlay_ex" />
+    <item android:id="@+id/overlay_he" android:drawable="@drawable/overlay_he" />
+    <item android:id="@+id/overlay_ma" android:drawable="@drawable/overlay_ma" />
+    <item android:id="@+id/overlay_od" android:drawable="@drawable/overlay_od" />
+</layer-list>
